@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+
+/* Tipografia */
+
+
+
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  color: white;
+  background-color:#1F1F1F;
+ }
+
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+ }
